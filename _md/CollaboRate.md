@@ -1,3 +1,26 @@
+---
+title: CollaboRate
+post_status: publish
+featured_image: https://raw.githubusercontent.com/ellen24k/CollaboRate/main/docs/images/collaborate_profile.jpg
+post_date: 2024-12-25T12:00:00+09:00
+taxonomy:
+  category:
+    - Projects
+  post_tag:
+    - Python
+    - Streamlit
+    - PostgreSQL
+    - Docker
+    - Jenkins
+    - CI/CD
+    - Oracle Cloud
+    - 팀 프로젝트
+    - 평가 시스템
+    - 웹 애플리케이션
+    - 데이터베이스
+    - 풀스택
+---
+
 # CollaboRate
 - - -
 ![collaborate](https://raw.githubusercontent.com/ellen24k/CollaboRate/main/docs/images/collaborate_profile.jpg)
