@@ -1,7 +1,7 @@
 ---
-title: CollaboRate
+title: CollaboRate 2024
 post_status: publish
-featured_image: https://raw.githubusercontent.com/ellen24k/CollaboRate/main/docs/images/collaborate_profile.jpg
+featured_image: /_images/collaborate_profile.jpg
 post_date: 2024-12-25T12:00:00+09:00
 taxonomy:
   category:
