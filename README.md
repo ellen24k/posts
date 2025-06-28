@@ -1,4 +1,4 @@
 # posts
 
 
-[CollaboRate](https://github.com/ellen24k/CollaboRate)
+[CollaboRate](_md/CollaboRate.md)
