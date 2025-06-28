@@ -1,7 +1,7 @@
 ---
 title: Azure 2024
 post_status: publish
-featured_image: /_images/CollaboRate/collaborate_profile.jpg
+featured_image: _images/CollaboRate/collaborate_profile.jpg
 post_date: 2024-12-25T12:00:00+09:00
 taxonomy:
   category:
@@ -44,9 +44,7 @@ and GitHub Action Deploy, SQL & PLpgSQL routines(stored procedure) with pg_net e
 
 ---
 
-<img src="/_images/Azure/diagram_deployment.png">
 <br>
-![test](_images/Azure/diagram_sequence_streamlit.png)
+![test](/_images/Azure/diagram_sequence_streamlit.png)
 <br>
-<img src="_images/Azure/diagram_sequence_database.png">
 ![test2](/_images/Azure/diagram_sequence_database.png)
