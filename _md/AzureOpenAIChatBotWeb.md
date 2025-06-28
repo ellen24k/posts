@@ -44,8 +44,9 @@ and GitHub Action Deploy, SQL & PLpgSQL routines(stored procedure) with pg_net e
 
 ---
 
-<img src="_images/Azure/diagram_deployment.png">
+<img src="../_images/Azure/diagram_deployment.png">
 <br>
-<img src="_images/Azure/diagram_sequence_streamlit.png">
+![test](_images/Azure/diagram_sequence_streamlit.png)
 <br>
 <img src="_images/Azure/diagram_sequence_database.png">
+![test2]("../_images/Azure/diagram_sequence_database.png")
