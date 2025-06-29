@@ -66,7 +66,7 @@ AI를 활용한 삼행시 생성 및 삼행시 기반 이미지 생성기
 
 ### Deployment Diagram - v2.0
 ![Diagram (v2.0)](https://raw.githubusercontent.com/ellen24k/AIPoemGallery/master/resources/diagram_deployment_new.png)
-```
+
 
 ### Tech Stacks v2.0
 - - -
